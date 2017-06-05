@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P3PrintingTriangle\bin\Debug\P3PrintingTriangle.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P3PrintingTriangle\bin\Debug\P3PrintingTriangle.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P3PrintingTriangle\bin\Debug\P3PrintingTriangle.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P3PrintingTriangle\obj\Debug\P3PrintingTriangle.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P3PrintingTriangle\obj\Debug\P3PrintingTriangle.pdb

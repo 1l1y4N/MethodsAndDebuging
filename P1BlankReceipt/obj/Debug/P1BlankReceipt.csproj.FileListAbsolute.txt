@@ -1,0 +1,6 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P1BlankReceipt\bin\Debug\P1BlankReceipt.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P1BlankReceipt\bin\Debug\P1BlankReceipt.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P1BlankReceipt\bin\Debug\P1BlankReceipt.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P1BlankReceipt\obj\Debug\P1BlankReceipt.csprojResolveAssemblyReference.cache
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P1BlankReceipt\obj\Debug\P1BlankReceipt.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P1BlankReceipt\obj\Debug\P1BlankReceipt.pdb

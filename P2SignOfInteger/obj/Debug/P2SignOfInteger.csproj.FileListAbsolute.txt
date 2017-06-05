@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P2SignOfInteger\bin\Debug\P2SignOfInteger.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P2SignOfInteger\bin\Debug\P2SignOfInteger.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P2SignOfInteger\bin\Debug\P2SignOfInteger.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P2SignOfInteger\obj\Debug\P2SignOfInteger.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\MethodsAndDebuging\P2SignOfInteger\obj\Debug\P2SignOfInteger.pdb
