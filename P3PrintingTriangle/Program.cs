@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace P3PrintingTriangle
 {
@@ -16,6 +13,7 @@ namespace P3PrintingTriangle
             }
             Console.WriteLine();
         }
+
         static void PrintNumbersReverse(int start, int end)
         {
             for (int i = start; i >= end; i--)
@@ -24,6 +22,7 @@ namespace P3PrintingTriangle
             }
             Console.WriteLine();
         }
+
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
@@ -31,11 +30,10 @@ namespace P3PrintingTriangle
             {
                 PrintNumbers(1,i);
             }
-            for (int j = (n-1); j >= 1; j--)
+            for (int j = n-1; j >= 1; j--)
             {
                 PrintNumbersReverse(j, 1);
             }
-            
         }
     }
 }
